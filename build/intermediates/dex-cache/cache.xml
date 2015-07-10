@@ -2,32 +2,76 @@
 <items version="2" >
 
     <item
+        jar="C:\Android\Apps\Adamino Chat\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\android-support-v4-ac3046686923ba7b5b9f0126c6c72ee36c3409c8.jar"/>
+    </item>
+    <item
+        jar="C:\Android\Apps\Adamino Chat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\classes-9374551ca483c81c5e7cfb7e438969b15b30bc8c.jar"/>
+    </item>
+    <item
+        jar="C:\Android\Apps\Adamino Chat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f2809c82cfdedd5204fdaedc8671ed890731debf.jar"/>
+    </item>
+    <item
+        jar="C:\Android\Apps\Adamino Chat\app\libs\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\picasso-2.1.1-6f59ce75ba3f6d0810e74cbc09bd258a6e850c1c.jar"/>
+    </item>
+    <item
+        jar="C:\Android\Apps\Adamino Chat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\classes-eea09303b3a0e7ab93ad5dc1c4b98e31b7197fa1.jar"/>
+    </item>
+    <item
         jar="C:\Users\Adam\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Android\Apps\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-2596cad448fd32e879a1df3b3dca2905493c1184.jar" />
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-2596cad448fd32e879a1df3b3dca2905493c1184.jar"/>
     </item>
     <item
-        jar="C:\Android\Apps\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jar="C:\Android\Apps\Adamino Chat\app\libs\Parse-1.9.3.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Android\Apps\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3705832d349e3569f7949f3b7db04cb5af58ca53.jar" />
+        sha1="35921ead63f6cafd9f84ff178c60fe474c4b17a6">
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\Parse-1.9.3-103036c3f5cdbafaf540ba7e9e41ab6461176bf6.jar"/>
     </item>
     <item
-        jar="C:\Android\Apps\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jar="C:\Android\Apps\Adamino Chat\app\libs\commons-io-2.4.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Android\Apps\MyApplication\app\build\intermediates\pre-dexed\debug\classes-417a94001fe687b2f3e1539895da353443502628.jar" />
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\commons-io-2.4-a3371e788d471eeab218f0990fd7bcf4a79f6d77.jar"/>
     </item>
     <item
-        jar="C:\Android\Apps\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jar="C:\Users\Adam\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Android\Apps\MyApplication\app\build\intermediates\pre-dexed\debug\classes-de4dcfa146c199c4c24b86cacf2891b06893e9da.jar" />
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex
+            dex="C:\Android\Apps\Adamino Chat\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-ecd672fed959e77a09d3900b3cfa21ce36a1a5b9.jar"/>
     </item>
 
 </items>
